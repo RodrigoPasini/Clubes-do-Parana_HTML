@@ -1,0 +1,40 @@
+ul{
+    list-style: none;
+    padding: 0px;
+}
+li a{
+    width: 80px;
+    background-color: #dddddd;
+    display: black;
+    color: black;
+    text-decoration: none;
+    padding: 5px 15px;
+    }
+li a:hover{
+    background-color: #555555;
+    color: white;
+}
+
+li{
+    float: left;
+}
+li a.coritiba{
+    background-color: green;
+    color: white;
+}
+li a.parana{
+    background-color: blue;
+    color: red;
+}
+li a.athletico{
+    background-color: red;
+    color: black;
+}
+li a.londrina{
+    background-color: white;
+    color: blue;
+}
+li a.operario{
+    background-color: black;
+    color: white;
+}
